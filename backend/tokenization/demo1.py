@@ -1,4 +1,4 @@
-text = input("Enter a sentence:") or "I love learning python"
+text=input("Enter a sentence:" ) or "I love Learning python "
 
 print("Text:",text)
 print("Length:",len(text))
